@@ -141,19 +141,19 @@
             android:orientation="horizontal">
 
             <RadioButton
-                android:id="@+id/radioButton"
+                android:id="@+id/rbVermelho"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Vermelho" />
 
             <RadioButton
-                android:id="@+id/radioButton2"
+                android:id="@+id/rbVerde"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Verde" />
 
             <RadioButton
-                android:id="@+id/radioButton3"
+                android:id="@+id/rbAzul"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/Azul" />
